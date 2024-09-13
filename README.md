@@ -25,4 +25,4 @@ Welcome to my GitHub profile! I am Anjali Thawani. I am an aspiring data analyst
 ## 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/anjalithawani/)
-- [Email](mailto:your.email@example.com)
+- [Email](anjalijiyathawani@gmail.com)
