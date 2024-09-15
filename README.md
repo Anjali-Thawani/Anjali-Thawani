@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am Anjali Thawani. I am an aspiring data analyst
 - [EV Market Analysis using Pythons](https://github.com/anjali-thawani/EV-Market-Analysis)
 - [Travel and Hotel Analysis using PowerBI](https://github.com/anjali-thawani/Travel-And-Hotel-Analysis)
 - [Credit Card Analysis using Excel](https://github.com/anjali-thawani/Credit-Card-Data-analysis)
-- [Famous Paintings and their Artist Data Analysis using SQL](https://github.com/anjali-thawani/Famous-Paintings-and-their-Artistsl)
+- [Famous Paintings and their Artist Data Analysis using SQL](https://github.com/anjali-thawani/Famous-Paintings-and-their-Artists)
 
 
 
